@@ -1,0 +1,19 @@
+#eu{
+    float: right;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+}
+body{
+    height: 100vh;
+    margin: 0;
+}
+.box{
+   
+    background-image:url(http://source.unsplash.com/random);
+}
+.eu::after{
+    content:"OI" ;
+    color: black;
+}
