@@ -5,10 +5,11 @@
 }
 #eu{
     float: right;
-    border: transparent thin solid;
+    border: rgb(255, 255, 255)  5px solid;
     padding: 0px;
     margin: 0px ;
     max-width: 200px;
+
 }
 body{
     background: url() no-repeat center center fixed;
@@ -42,4 +43,6 @@ a{
 h1,h2{
     color: rgb(19, 125, 212);
 }
-  
+hr{
+    width: 300px;
+}
