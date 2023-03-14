@@ -10,7 +10,7 @@
 <div>- 🤔 I’m looking for help with 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></div>
-<div>- 💬 Ask me about something.</div>
+<p><div>- 💬 Ask me about something.</div></p>
 
 <h1> Contacts </h1>
 <p><a href="https://instagram.com/vitorsfilgueiras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></p>
